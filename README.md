@@ -1,2 +1,2 @@
 # arduino-otopark-projesi
-![](otopark-projesi.pdf)
+![](img/otopark-projesi.png)
