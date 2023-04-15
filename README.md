@@ -1,6 +1,5 @@
-# arduino-otopark-projesi
-
-![](img/otopark-projesi.png)
+# Arduino Otopark Projesi
+![](img/otopark_projesi.png)
 
 ## References
 
