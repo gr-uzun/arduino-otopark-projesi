@@ -2,7 +2,7 @@
 
 ![](img/otopark-projesi.png)
 
-##  References **
+## References
 
 **Ultrasonic sensor SR04**
 
