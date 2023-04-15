@@ -1,10 +1,9 @@
 # arduino-otopark-projesi
+
 ![](img/otopark-projesi.png)
 
-**  Kaynaklar **
+**  References **
 **  Ultrasonic sensor SR04 **
 **  https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
 **  LCD(Liquid crystal display) LCM1602 IIC **
 **  https://arduino-info.wikispaces.com/LCD-Blue-I2C **
-**  @author : Ugur Enes UZUN,Gurkan UZUN **
-**  @since : 15.04.2018 **
