@@ -10,7 +10,8 @@ https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
 
 https://arduinoinfo.mywikis.net/wiki/LCD-Blue-I2C
 
-** Electronic Circuit Design (.fzz files)
+**Electronic Circuit Design (.fzz files)**
+
 https://fritzing.org/
 
 ![](img/otopark_projesi.png)
