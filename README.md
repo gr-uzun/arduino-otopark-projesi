@@ -1,5 +1,11 @@
 # Arduino Otopark Projesi
 
+## Developers
+
+**Gürkan UZUN**
+
+**Uğur Enes UZUN**
+
 ## References
 
 **Ultrasonic sensor SR04**
