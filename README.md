@@ -2,9 +2,9 @@
 
 ## Developers
 
-**Gürkan UZUN**
+- **Gürkan UZUN**
 
-**Uğur Enes UZUN**
+- **Uğur Enes UZUN**
 
 ## References
 
